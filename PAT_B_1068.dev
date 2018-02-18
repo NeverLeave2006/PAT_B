@@ -1,6 +1,6 @@
 [Project]
-FileName=PAT_B_1074.dev
-Name=PAT_B_1074
+FileName=PAT_B_1068.dev
+Name=PAT_B_1068
 Type=1
 Ver=2
 ObjFiles=
@@ -28,7 +28,7 @@ Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
-CompilerSettings=0000000000000000001000000
+CompilerSettings=0000000000000000000000000
 UnitCount=1
 
 [VersionInfo]
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=PAT_B_1074.cpp
+FileName=PAT_B_1068.cpp
 CompileCpp=1
 Folder=
 Compile=1

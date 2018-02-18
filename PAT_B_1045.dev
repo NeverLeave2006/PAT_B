@@ -1,6 +1,6 @@
 [Project]
-FileName=PAT_B_1074.dev
-Name=PAT_B_1074
+FileName=PAT_B_1045.dev
+Name=PAT_B_1045
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=PAT_B_1074.cpp
+FileName=PAT_B_1045.cpp
 CompileCpp=1
 Folder=
 Compile=1
